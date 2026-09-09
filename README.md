@@ -1,10 +1,8 @@
-
-
-# Run and deploy your AI Studio app
+<h1>RailBlock AI </h1>
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://railblock-ai-fawn.vercel.app/
+RailBlock AI: https://railblock-ai-fawn.vercel.app/
 
 ## Run Locally
 
